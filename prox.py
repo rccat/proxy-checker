@@ -16,7 +16,6 @@ URL = "http://google.com"
 CMD_CLEAR_TERM = "cls"
 TIMEOUT = (3.05,27)
 
-
 def check_proxy(proxy):
     '''
         Function for check proxy return ERROR
